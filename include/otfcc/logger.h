@@ -1,7 +1,7 @@
 #ifndef CARYLL_INCLUDE_LOGGER_H
 #define CARYLL_INCLUDE_LOGGER_H
 
-#include "dep/sds.h"
+#include "sds.h"
 #include "caryll/ownership.h"
 #include "primitives.h"
 

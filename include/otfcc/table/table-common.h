@@ -1,7 +1,7 @@
 #ifndef CARYLL_INCLUDE_TABLE_COMMON_H
 #define CARYLL_INCLUDE_TABLE_COMMON_H
 
-#include "dep/json.h"
+#include "json.h"
 
 #include "caryll/buffer.h"
 #include "caryll/ownership.h"

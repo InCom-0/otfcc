@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
-#include "dep/sds.h"
+#include "sds.h"
 #include "caryll/ownership.h"
 #include "caryll/element.h"
 #include "primitives.h"

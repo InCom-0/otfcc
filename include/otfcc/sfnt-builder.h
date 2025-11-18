@@ -4,7 +4,7 @@
 #include "primitives.h"
 #include "caryll/buffer.h"
 #include "otfcc/options.h"
-#include "dep/uthash.h"
+#include "uthash.h"
 
 typedef struct {
 	int tag;

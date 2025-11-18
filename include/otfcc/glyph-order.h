@@ -1,9 +1,9 @@
 #ifndef CARYLL_INCLUDE_GLYPH_ORDER_H
 #define CARYLL_INCLUDE_GLYPH_ORDER_H
 
-#include "dep/sds.h"
-#include "dep/json.h"
-#include "dep/uthash.h"
+#include "sds.h"
+#include "json.h"
+#include "uthash.h"
 #include "caryll/ownership.h"
 #include "otfcc/primitives.h"
 #include "otfcc/handle.h"

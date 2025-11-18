@@ -1,36 +1,46 @@
-# Compiled Object files
-*.slo
-*.lo
+# CMake related
+build*/
+!build2/
+CMakeUserPresets.json
+CMakeFiles/
+cmake/config/auto
+
+# CLion
+.idea/
+cmake-build*/
+
+# VS Code
+.vscode/
+.cache/
+
+# VS
+.vs/
+CMakeSettings.json
+CMakeUserPresets.json
+out/
+
+
+# Compiler/linker output.
+#
+*.d
+*.t
+*.i
+*.i.*
+*.ii
+*.ii.*
 *.o
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
+*.gcm
+*.pcm
+*.ifc
 *.so
-*.dylib
 *.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
 *.a
 *.lib
-
-# Executables
+*.exp
+*.pdb
+*.ilk
 *.exe
-*.out
-*.app
-
-build/
-bin/
-.vscode/
-_test
-
-# Makefile is for local dev only
-makefile
+*.exe.dlls/
+*.exe.manifest
+*.pc
