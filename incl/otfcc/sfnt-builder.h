@@ -2,7 +2,7 @@
 #define CARYLL_SFNT_BUILDER_H
 
 #include <otfcc/primitives.h>
-#include <caryll/buffer.h>
+#include <otfcc/caryll/buffer.h>
 #include <otfcc/options.h>
 #include <uthash.h>
 

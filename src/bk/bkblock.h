@@ -6,9 +6,9 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <limits.h>
-#include <caryll/ownership.h>
+#include <otfcc/caryll/ownership.h>
 #include "support/otfcc-alloc.h"
-#include <caryll/buffer.h>
+#include <otfcc/caryll/buffer.h>
 
 struct __caryll_bkblock;
 typedef enum {

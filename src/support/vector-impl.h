@@ -1,7 +1,7 @@
 #ifndef CARYLL_SUPPORT_VECTOR_IMPL_H
 #define CARYLL_SUPPORT_VECTOR_IMPL_H
 
-#include <caryll/vector.h>
+#include <otfcc/caryll/vector.h>
 #include "element-impl.h"
 
 #ifndef __CARYLL_INLINE__

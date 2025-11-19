@@ -2,7 +2,7 @@
 #define CARYLL_INCLUDE_LOGGER_H
 
 #include <sds.h>
-#include <caryll/ownership.h>
+#include <otfcc/caryll/ownership.h>
 #include <otfcc/primitives.h>
 
 typedef struct otfcc_ILoggerTarget {

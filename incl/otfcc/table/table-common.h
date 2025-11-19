@@ -3,9 +3,9 @@
 
 #include <json.h>
 
-#include <caryll/buffer.h>
-#include <caryll/ownership.h>
-#include <caryll/vector.h>
+#include <otfcc/caryll/buffer.h>
+#include <otfcc/caryll/ownership.h>
+#include <otfcc/caryll/vector.h>
 
 #include <otfcc/handle.h>
 #include <otfcc/glyph-order.h>

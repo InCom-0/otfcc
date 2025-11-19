@@ -1,8 +1,8 @@
 #ifndef CARYLL_VF_VV_H
 #define CARYLL_VF_VV_H
 
-#include <caryll/element.h>
-#include <caryll/vector.h>
+#include <otfcc/caryll/element.h>
+#include <otfcc/caryll/vector.h>
 #include <otfcc/primitives.h>
 
 extern caryll_ValElementInterface(pos_t) vq_iPosT;

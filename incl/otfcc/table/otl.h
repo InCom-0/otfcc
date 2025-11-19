@@ -1,7 +1,7 @@
 #ifndef CARYLL_INCLUDE_TABLE_OTL_H
 #define CARYLL_INCLUDE_TABLE_OTL_H
 
-#include <caryll/vector.h>
+#include <otfcc/caryll/vector.h>
 #include <otfcc/table/table-common.h>
 #include <otfcc/table/otl/coverage.h>
 #include <otfcc/table/otl/classdef.h>

@@ -4,7 +4,7 @@
 #include <sds.h>
 #include <json.h>
 #include <uthash.h>
-#include <caryll/ownership.h>
+#include <otfcc/caryll/ownership.h>
 #include <otfcc/primitives.h>
 #include <otfcc/handle.h>
 #include <otfcc/options.h>

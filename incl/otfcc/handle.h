@@ -5,8 +5,8 @@
 #include <stdlib.h>
 #include <stdint.h>
 #include <sds.h>
-#include <caryll/ownership.h>
-#include <caryll/element.h>
+#include <otfcc/caryll/ownership.h>
+#include <otfcc/caryll/element.h>
 #include <otfcc/primitives.h>
 
 typedef enum {

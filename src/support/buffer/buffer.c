@@ -1,4 +1,4 @@
-#include <caryll/buffer.h>
+#include <otfcc/caryll/buffer.h>
 #include "support/otfcc-alloc.h"
 
 caryll_Buffer *bufnew() {

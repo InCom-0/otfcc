@@ -1,9 +1,9 @@
 #ifndef CARYLL_VF_FUNCTIONAL_H
 #define CARYLL_VF_FUNCTIONAL_H
 
-#include <caryll/ownership.h>
-#include <caryll/element.h>
-#include <caryll/vector.h>
+#include <otfcc/caryll/ownership.h>
+#include <otfcc/caryll/element.h>
+#include <otfcc/caryll/vector.h>
 #include <otfcc/primitives.h>
 #include <otfcc/handle.h>
 

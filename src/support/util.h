@@ -18,8 +18,8 @@
 #include "sds.h"
 #include "uthash.h"
 
-#include <caryll/ownership.h>
-#include <caryll/buffer.h>
+#include <otfcc/caryll/ownership.h>
+#include <otfcc/caryll/buffer.h>
 
 #include <otfcc/handle.h>
 #include <otfcc/primitives.h>

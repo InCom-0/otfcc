@@ -5,7 +5,7 @@
 #include <stdarg.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include <caryll/buffer.h>
+#include <otfcc/caryll/buffer.h>
 
 #include "bkblock.h"
 
